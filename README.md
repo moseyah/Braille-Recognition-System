@@ -9,3 +9,7 @@
 ## 安装
 
 点击此处下载[apk文件](https://github.com/moseyah/Braille-Recognition-System/releases/download/v1.0/v1.apk)。
+
+附：
+
+可点击下载[测试图像](https://github.com/moseyah/Braille-Recognition-System/releases/download/v1.0/images.rar)进行简单测试。
